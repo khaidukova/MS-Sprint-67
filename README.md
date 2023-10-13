@@ -45,7 +45,7 @@
 **Env:**
 
 ## Flow
-- Select featuring artist, set the required fields, description that will be used as push body, attach a pdf file
+- Select featuring artist, set the required fields and description that will be used as push body, attach a pdf file
 - Show the users' submission date
 - Edit automatic notifications
 - Send a custom push notification to an individual user (choose 'FAN HUB pop-up for winner' destination) 
