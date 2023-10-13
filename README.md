@@ -6,7 +6,10 @@
 - https://fanhub.muzicswipe.com/TLmL/fanhub?main=cfaea10a-45a2-4fa7-b012-671dc13591a7 
 
 ## Flow
-
+- FAN HUB is a default screen
+- It can be opened via Activity/onelink
+- There's a scrolling indicator, mentioned artist, Rules and details
+- Send a push notification from the Admin panel and show the dedicated pop-up
 
 ## Primary
 - MFMBL-4625 | Switch to fan hub by default instead of Home
@@ -40,6 +43,12 @@
 
 # Web
 **Env:**
+
+## Flow
+- Select featuring artist, set the required fields, description that will be used as push body, attach a pdf file
+- Show the users' submission date
+- Edit automatic notifications
+- Send a custom push notification to an individual user (choose 'FAN HUB pop-up for winner' destination) 
 
 ## Primary
 - MFADM-787 | As an admin, I want to select featuring artist for FAN HUB
