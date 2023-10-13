@@ -1,6 +1,9 @@
 # Mobile
 **Accounts:**
 - silentsinger / Mercuryqa1!
+  
+**Fan Hub onelink:** 
+- https://fanhub.muzicswipe.com/TLmL/fanhub?main=cfaea10a-45a2-4fa7-b012-671dc13591a7 
 
 ## Flow
 
@@ -34,3 +37,29 @@
 - MFMBL-3812 | [Design Review] Update Sign In layout
 - MFMBL-3815 | [Design Review] Update Log Out layout
 
+
+# Web
+**Env:**
+
+## Primary
+- MFADM-812 | As an admin, I want to attach specific legal doc for each FAN HUB event
+- MFADM-808 | As an admin, I want to type the Fan Hub description that will be used as push body
+- MFADM-817 | As an admin, I want to see user's sign up date and time for Fan Hub events
+- MFADM-787 | As an admin, I want to select featuring artist for FAN HUB
+- MFADM-792 | Set the required or optional fields on the FAN HUB event
+- MFADM-801 | As an admin, I want to have an option to delete the Fan Moment event
+- MFADM-803 | Let the admin publish a Fan Moment and skip Save step
+- MFADM-804 | Show a placeholder if there are no responses
+- MFADM-767 | As an admin, I want to edit automatic push notifications
+- MFADM-765 | As an admin, I want to send custom push notifications to individual users
+- MFADM-786 | Let the admin select a Won pop-up on Notifications as a destination
+- MFADM-778 | Tweak the name of Text column and add a Subject column to Notifications-Custom
+- MFADM-805 | Fix typos in the winner alert
+- MFWEB-1800 | Fix the link to be valid not invalid
+
+## Secondary
+
+## Skip
+- MFWEB-1664 | Insert a slogan to Swipe100 emails
+- MFADM-823 | Add details for the 'SubsidizeContest' audit entry
+- MFADM-802 | Email instead of E-mail
