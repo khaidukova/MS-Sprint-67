@@ -42,7 +42,8 @@
 
 
 # Web
-**Env:**
+**Env:** https://dev1-admin.muzicswipe.com/
++1 202-555-1238 / ?9Kz3XF3e3TedBf^L&+pU+Z?t
 
 ## Flow
 - Select featuring artist, set the required fields and description that will be used as push body, attach a pdf file
