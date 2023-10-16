@@ -47,7 +47,7 @@
 ## Flow
 - Select featuring artist, set the required fields and description that will be used as push body, attach a pdf file
 - Show the users' submission date
-- Edit automatic notifications
+- Create / Edit / Delete automatic notifications payloads
 - Send a custom push notification to an individual user (choose 'FAN HUB pop-up for winner' destination) 
 
 ## Primary
@@ -60,6 +60,7 @@
 - MFADM-801 | As an admin, I want to have an option to delete the Fan Moment event
 - MFADM-804 | Show a placeholder if there are no responses
 - MFADM-767 | As an admin, I want to edit automatic push notifications
+- MFADM-784 | As an admin, I want to manage (add/delete) automatic push notifications
 - MFADM-765 | As an admin, I want to send custom push notifications to individual users
 - MFADM-786 | Let the admin select a Won pop-up on Notifications as a destination
 - MFADM-778 | Tweak the name of Text column and add a Subject column to Notifications-Custom
