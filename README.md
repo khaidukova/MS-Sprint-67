@@ -3,7 +3,7 @@
 - silentsinger / Mercuryqa1!
   
 **Fan Hub onelink:** 
-- https://fanhub.muzicswipe.com/TLmL/fanhub?main=cfaea10a-45a2-4fa7-b012-671dc13591a7 
+- https://fanhub.muzicswipe.com/TLmL/fanhub?main=583bcdad-6584-4cde-84cc-1a755e6df41d  
 
 ## Flow
 - FAN HUB is a default screen
